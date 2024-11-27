@@ -1,0 +1,38 @@
+{
+  "0x5d0fa4c5668e5809c83c95a7cef3a9dd7c68d4fe": {
+    "name": "Wrapped TARA",
+    "symbol": "WTARA",
+    "decimals": 18,
+    "logo": "./0x5d0fa4c5668e5809c83c95a7cef3a9dd7c68d4fe/wtara.png"
+  },
+  "0xC26B690773828999c2612549CC815d1F252EA15e": {
+    "name": "USDM Stablecoin",
+    "symbol": "USDM",
+    "decimals": 18,
+    "logo": "./0xC26B690773828999c2612549CC815d1F252EA15e/usdm.png"
+  },
+  "0x81d87E0a53EAf3723Ecc5B57AB11cC04639c9dEa": {
+    "name": "Tether",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logo": "./0x81d87E0a53EAf3723Ecc5B57AB11cC04639c9dEa/usdt.png"
+  },
+  "0xE6A69cD4FF127ad8E53C21a593F7BaC4c608945e": {
+    "name": "Lara",
+    "symbol": "LARA",
+    "decimals": 18,
+    "logo": "./0xE6A69cD4FF127ad8E53C21a593F7BaC4c608945e/lara.png"
+  },
+  "0x862a3230480b5bab682EaF01F765e6f2726bcd5f": {
+    "name": "OneBot",
+    "symbol": "ONB",
+    "decimals": 18,
+    "logo": "./0x862a3230480b5bab682EaF01F765e6f2726bcd5f/onb.png"
+  },
+  "0xF847ecc42565BFd2d6183d5429795549Ee89b2Ac": {
+    "name": "TaraInu",
+    "symbol": "TARAINU",
+    "decimals": 18,
+    "logo": "./0xF847ecc42565BFd2d6183d5429795549Ee89b2Ac/tarainu.png"
+  }
+}
