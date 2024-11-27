@@ -15,6 +15,6 @@
 ## 3. Naming convention
 
 - All addresses MUST be in checksum format
-- Logos are in square format and MUST be named `[lowercase ticker].png`
+- Logos are in square format and MUST be named `logo.png`
 
 To list your asset on Taraswap and have its logo displayed on the website, you need to create a pull request with the changes described above.
