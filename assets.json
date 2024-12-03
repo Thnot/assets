@@ -11,11 +11,11 @@
     "decimals": 18,
     "logo": "./0xC26B690773828999c2612549CC815d1F252EA15e/usdm.png"
   },
-  "0x81d87E0a53EAf3723Ecc5B57AB11cC04639c9dEa": {
+  "0x69D411CbF6dBaD54Bfe36f81d0a39922625bC78c": {
     "name": "Tether",
     "symbol": "USDT",
     "decimals": 6,
-    "logo": "./0x81d87E0a53EAf3723Ecc5B57AB11cC04639c9dEa/usdt.png"
+    "logo": "./0x69D411CbF6dBaD54Bfe36f81d0a39922625bC78c/usdt.png"
   },
   "0xE6A69cD4FF127ad8E53C21a593F7BaC4c608945e": {
     "name": "Lara",
