@@ -34,5 +34,11 @@
     "symbol": "TARAINU",
     "decimals": 18,
     "logo": "./0xF847ecc42565BFd2d6183d5429795549Ee89b2Ac/tarainu.png"
+  },
+  "0x712037beab9a29216650B8d032b4D9A59AF8AD6C": {
+    "name": "Taraswap",
+    "symbol": "TSWAP",
+    "decimals": 18,
+    "logo": "./0x712037beab9a29216650B8d032b4D9A59AF8AD6C/tswap.png"
   }
 }
