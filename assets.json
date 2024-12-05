@@ -40,5 +40,11 @@
     "symbol": "TSWAP",
     "decimals": 18,
     "logo": "./0x712037beab9a29216650B8d032b4D9A59AF8AD6C/tswap.png"
-  }
+  },
+  "0x1c4380914977ae1C6789E9CE00eF7f31C4A69fBa": {
+    "name": "GETS",
+    "symbol": "GETS",
+    "decimals": 18,
+    "logo": "./0x1c4380914977ae1C6789E9CE00eF7f31C4A69fBa/gets.png" 
+ }
 }
