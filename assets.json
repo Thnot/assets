@@ -46,5 +46,11 @@
     "symbol": "GETS",
     "decimals": 18,
     "logo": "./0x1c4380914977ae1C6789E9CE00eF7f31C4A69fBa/gets.png" 
+ },
+  "0x39b1fC930C43606af5C353e90a55db10bCaF4087": {
+    "name": "ETH",
+    "symbol": "Ethereum",
+    "decimals": 18,
+    "logo": "./0x39b1fC930C43606af5C353e90a55db10bCaF4087/eth.png" 
  }
 }
